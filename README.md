@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohan-ramakrishnan
 - 👀 I’m interested in Full Stack Web Development and Data Science
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on any project really...
 - 📫 How to reach me, send me a friend req on Discord @Arcane#5631
 
