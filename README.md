@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development and Data Science
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on any project really...
-- 📫 How to reach me, send me a friend req on Discord @Arcane#5631
+- 📫 How to reach me, send me a friend req on Discord @Providence#5631 (It's from Hitman LOL)
 
 <!---
 rohan-ramakrishnan/rohan-ramakrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
