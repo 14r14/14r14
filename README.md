@@ -1,4 +1,4 @@
- [[!Masterhead](https://github.com/rohan-ramakrishnan/rohan-ramakrishnan/blob/main/banner.png)](https://github.com/rohan-ramakrishnan)
+ [![Masterhead](https://github.com/rohan-ramakrishnan/rohan-ramakrishnan/blob/main/banner.png)](https://github.com/rohan-ramakrishnan)
  *Photo in background by <a href="https://unsplash.com/@ben_neale?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Neale</a> on <a href="https://unsplash.com/s/photos/aesthetic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   * 
 
