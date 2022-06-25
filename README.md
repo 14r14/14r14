@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @rohan-ramakrishnan
 - 👀 I’m interested in Full Stack Web Development and Data Science
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on any project really...
+- 💞️ I’m looking to collaborate on any project really, but currently busy, drop a req and I'll get to you when available.
 - 📫 How to reach me, send me a friend req on Discord @Providence#5631 (It's from Hitman LOL)
 
 ## Stats
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ramakrishnan)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan-ramakrishnan&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rohan-ramakrishnan/rohan-ramakrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
