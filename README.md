@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-ramakrishnan&count_private=true&show_icons=true&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Spotify
-[[https://itstommi.vercel.app/api?scan=true]]
+[![Spotify](https://itstommi.vercel.app/api?scan=true)]
 
 <!---
 rohan-ramakrishnan/rohan-ramakrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
