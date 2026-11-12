@@ -2,7 +2,7 @@
  *Photo in background by <a href="https://unsplash.com/@ben_neale?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Neale</a> on <a href="https://unsplash.com/s/photos/aesthetic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 
 ## About Me
-My name is Rohan Ramakrishnan, I am currently an undergraduate student at the University of Southern California (USC) majoring in Computer Science and Business Administration. I specialize in Python & JS/TS development, focusing on data-driven applications that help people live better lives.
+My name is Rohan Ramakrishnan, I am currently an undergraduate student at the University of Southern California (USC) majoring in Computer Engineering and Computer Science. I specialize in Python & JS/TS development, focusing on data-driven applications that help people live better lives.
 
 My hobbies include:
 - Watching races (drag races and F1) and videos about cars
